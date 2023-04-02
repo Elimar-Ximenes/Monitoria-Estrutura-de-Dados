@@ -13,4 +13,8 @@
 
 ## Materiais Complementares
 * [Tipos Estruturados - Struct](https://docs.google.com/presentation/d/1HsKBh5gQuIeETFtZ1UoTtQlK9tHum62Z/edit?usp=sharing&ouid=116298311831963351430&rtpof=true&sd=true)
+* [Tipos Estruturados - Struct](https://docs.google.com/presentation/d/1C3S7TS15g2T-vEz7K6bZFzMjeS2DwXs0/edit#slide=id.p1)
+
+
+
 
