@@ -12,4 +12,5 @@
 * [Slide 04 - Conceitos Iniciais Estrutura de Dados](Colocar Link Aqui)
 
 ## Materiais Complementares
-* [Tipos Estruturados - Struct]([Colocar Link Aqui](https://docs.google.com/presentation/d/1HsKBh5gQuIeETFtZ1UoTtQlK9tHum62Z/edit?usp=sharing&ouid=116298311831963351430&rtpof=true&sd=true)
+* [Tipos Estruturados - Struct]([Colocar Link Aqui](https://docs.google.com/presentation/d/1HsKBh5gQuIeETFtZ1UoTtQlK9tHum62Z/edit?usp=sharing&ouid=116298311831963351430&rtpof=true&sd=true))
+
