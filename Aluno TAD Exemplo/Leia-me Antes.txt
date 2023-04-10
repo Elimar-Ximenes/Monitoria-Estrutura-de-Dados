@@ -1,0 +1,2 @@
+- Lembre-se, o ideal é sempre que você crie três arquivos, um arquivo main.c para armazenar o código principal, um arquivo .h para armazenar os cabeçalhos das funções, podendo ser Aluno.h por exemplo, e por fim um terceiro arquivo .c para armazenar as funções, como Aluno.c
+- Ou seja, no projeto teriamos três arquivos: main.c, Aluno.h e Aluno.c
