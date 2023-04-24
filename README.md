@@ -3,13 +3,12 @@
 ### UFC - Campus de Crateús
 ### Monitor Elimar Ximenes 
 
-## Materiais Monitoria
+## Materiais Monitoria - Slides e sugestões de Sites, sobre o conteúdo
 
 * [Slide 00 - Conceitos Iniciais Estrutura de Dados](https://docs.google.com/presentation/d/1uqsZDdBYEa7wnbQOMmKbH5WJIEJDghKB/edit#slide=id.p1)
-* [Slide 01 - Pilha - Arquivo em Desenvolvimento](Colocar Link Aqui)
-* [Slide 02 - Listas Encadeadas](https://docs.google.com/presentation/d/1wyNafq8HHcgesUIagupc5n1XF9OokEs4/edit?usp=sharing&ouid=116298311831963351430&rtpof=true&sd=true)
-* [Slide 03 - Fila - Arquivo em Desenvolvimento](Colocar Link Aqui)
-* [Slide 04 - Arvores - Arquivo em Desenvolvimento](Colocar Link Aqui)
+* [Site - Pilha](https://www.cos.ufrj.br/~rfarias/cos121/pilhas.html)
+* [Slide 01 - Listas Encadeadas](https://docs.google.com/presentation/d/1wyNafq8HHcgesUIagupc5n1XF9OokEs4/edit?usp=sharing&ouid=116298311831963351430&rtpof=true&sd=true)
+* [Site - Fila](https://www.cos.ufrj.br/~rfarias/cos121/filas.html)
 
 ## Materiais Complementares
 * [Ponteiros](https://docs.google.com/presentation/d/1Qm4L766Dzi_Ihtb3jw2WzwIq7g7tnxpU/edit?usp=sharing&ouid=116298311831963351430&rtpof=true&sd=true)
