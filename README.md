@@ -15,6 +15,7 @@
 * [Tipos Estruturados - Struct](https://docs.google.com/presentation/d/1HsKBh5gQuIeETFtZ1UoTtQlK9tHum62Z/edit?usp=sharing&ouid=116298311831963351430&rtpof=true&sd=true)
 * [Laços de Repetição](https://docs.google.com/presentation/d/1C3S7TS15g2T-vEz7K6bZFzMjeS2DwXs0/edit#slide=id.p1)
 * [Recursão](https://docs.google.com/presentation/d/1V-_Md9ZPZBMqH_fXm2dsqnSbfBmGyksE/edit#slide=id.p1)
+* [Complexidade](https://docs.google.com/presentation/d/1sLyodxz1-SlLRdkJVf6QrSEvdtS2HxOX/edit#slide=id.p1)
 
 
 
