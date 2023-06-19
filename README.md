@@ -9,6 +9,7 @@
 * [Site - Pilha](https://www.cos.ufrj.br/~rfarias/cos121/pilhas.html)
 * [Slide 01 - Listas Encadeadas](https://docs.google.com/presentation/d/1wyNafq8HHcgesUIagupc5n1XF9OokEs4/edit?usp=sharing&ouid=116298311831963351430&rtpof=true&sd=true)
 * [Site - Fila](https://www.cos.ufrj.br/~rfarias/cos121/filas.html)
+* [Algoritmos de Ordenação](https://docs.google.com/document/d/1mSXFA1mLugrCQelphrwTuKzXZP5sXCZSu6AXDWgcHEk/edit)
 
 ## Materiais Complementares
 * [Ponteiros](https://docs.google.com/presentation/d/1Qm4L766Dzi_Ihtb3jw2WzwIq7g7tnxpU/edit?usp=sharing&ouid=116298311831963351430&rtpof=true&sd=true)
